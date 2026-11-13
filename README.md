@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff003c&height=200&section=header&text=SimaphV2&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff003c&height=200&section=header&text=MUZAMIL-TECHX&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <br/>
 
