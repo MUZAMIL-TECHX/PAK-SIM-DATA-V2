@@ -1,0 +1,12 @@
+{
+  "name": "redstudio-api",
+  "version": "1.0.0",
+  "description": "SIM Database Search API by RedXhackers",
+  "main": "api/search.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
